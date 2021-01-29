@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+# Education
+
+# Projects
+
+## Visual Localization
+
+## aUToronto
+
+## Controls Project
+
+## Planning Project
+
+## Perception Project

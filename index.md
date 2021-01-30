@@ -66,7 +66,7 @@ Worked as the simulation lead links to winning articles 1st Place Team Overall Y
   <tbody>
     <tr>
       <td> 
-        <a href=""> Download Project Report </a>( &nbsp;  <a href="https://github.com/MollieBianchi/planning_project"> View on GitHub </a> &nbsp;  <a href=""> View Video </a>
+        <a href="assets/pdfs/PlanningFinalReport.pdf"> Download Project Report </a>( &nbsp;  <a href="https://github.com/MollieBianchi/planning_project"> View on GitHub </a> &nbsp;  <a href=""> View Video </a>
       The ORCA method [1] is a procedure for finding the closest collision-free velocity to a preferred velocity for each robot in a multi-robot environment. The computation of this preferred velocity is separate from the collision avoidance and is generally achieved using traditional motion planning techniques. The only restriction is that it must be computed quickly as the collision avoidance procedure is computation heavy. Exactly how it was computed was excluded from the original paper. The preferred velocity is important in order to prevent deadlock situations and to ensure smooth paths. This project implements the ORCA method from scratch in MATLAB and presents and evaluates a method for computing the preferred velocity.
       </td>
       <td>

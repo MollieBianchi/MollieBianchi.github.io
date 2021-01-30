@@ -19,7 +19,7 @@ layout: default
       <a href="https://github.com/MollieBianchi">View my GitHub Profile</a> &nbsp; 
       <a href="assets/pdfs/MollieBianchiResume.pdf">Download my Resume</a> <br> &nbsp; 
     </td>
-    <td><div><img src="assets/imgs/car_pic.JPG" width="300"></div></td>     
+    <td><div><img src="assets/imgs/car_pic.JPG" width="300"></div><br></td>     
   </tr>
 </table>
 
@@ -135,6 +135,10 @@ Insert blurb
 <br>
 <hr>
 <br>
+
+# Work Experience
+
+blurb gif
 
 # Fun Stuff
 {% include youtubePlayer.html id="n5x_kSzzbGw" %}

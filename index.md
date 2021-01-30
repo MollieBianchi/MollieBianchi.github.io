@@ -1,20 +1,30 @@
 ---
 layout: default
 ---
+# Mollie Bianchi
 
-![Me Car Pic](assests_/imgs/car_pic.JPG)
 
-# Education
-**Master of Applied Science, Emphasis in Robotics						2019 - 2021**  
-_University of Toronto, Autonomous Space Robotics Lab, GPA: 4.0/4.0_  
-[Vector Scholarship in Artificial Intelligence](https://news.engineering.utoronto.ca/five-u-of-t-engineering-students-recognized-with-vector-institute-scholarships-in-ai/) and NSERC Graduate Scholarship   
 
-**Bachelor of Applied Science in Engineering Science with High Honours			2015 - 2019**   
-_University of Toronto, Robotics Major, GPA: 3.94/4.00_   
-University of Toronto National Scholarship valued at $100k
+# Education 
 
-[LinkedIn](https://www.linkedin.com/in/mollie-bianchi-4963371a5/)
-[Resume]()
+<table style="width:100%">
+  <tr>
+    <th> text-align: left;
+      <b> Master of Applied Science, Emphasis in Robotics						2019 - 2021 </b>
+      <i> University of Toronto, Autonomous Space Robotics Lab, GPA: 4.0/4.0_ </i>
+      [Vector Scholarship in Artificial Intelligence](https://news.engineering.utoronto.ca/five-u-of-t-engineering-students-recognized-with-vector-institute-scholarships-in-ai/) and NSERC Graduate Scholarship 
+      <b> Bachelor of Applied Science in Engineering Science with High Honours			2015 - 2019 </b>
+      <i> University of Toronto, Robotics Major, GPA: 3.94/4.00 </i>
+      University of Toronto National Scholarship valued at $100k
+      [View my LinkedIn Profile](https://www.linkedin.com/in/mollie-bianchi-4963371a5/) 
+      [View my GitHub Profile](https://github.com/MollieBianchi)  
+      [Download my Resume]()
+    </th>
+    <th><img src="assests_/imgs/car_pic.JPG" width="300">/th>     
+  </tr>
+</table>
+
+***
 
 # Projects
 

@@ -38,7 +38,10 @@ include videos/gifs and some description
 
 _Website_(https://www.autodrive.utoronto.ca)
 
-Burnett, Keenan and Qian, Jingxing and Du, Xintong and Liu, Linqiao and Yoon, David J. and Shen, Tianchang and Sun, Susan and Samavi, Sepehr and Sorocky, Michael J. and Bianchi, Mollie and Zhang, Kaicheng and Arkhangorodsky, Arkady and Sykora, Quinlan and Lu, Shichen and Huang, Yizhou and Schoellig, Angela P. and Barfoot, Timothy D. "**Zeus: A system description of the two-time winner of the collegiate SAE autodrive competition.**" _Journal of Field Robotics_. 2020.  _arXiv:2004.08752 [cs.RO]_(https://arxiv.org/abs/2004.08752) _Video_(https://youtu.be/2Z6mPKIv0TM)
+Burnett, Keenan and Qian, Jingxing and Du, Xintong and Liu, Linqiao and Yoon, David J. and Shen, Tianchang and Sun, Susan and Samavi, Sepehr and Sorocky, Michael J. and Bianchi, Mollie and Zhang, Kaicheng and Arkhangorodsky, Arkady and Sykora, Quinlan and Lu, Shichen and Huang, Yizhou and Schoellig, Angela P. and Barfoot, Timothy D. "**Zeus: A system description of the two-time winner of the collegiate SAE autodrive competition.**" _Journal of Field Robotics_. 2020.  _arXiv:2004.08752 [cs.RO]_(https://arxiv.org/abs/2004.08752) 
+
+{% include youtubePlayer.html id="2Z6mPKIv0TM" %}
+_Video_(https://youtu.be/2Z6mPKIv0TM)
 
 
 

@@ -24,7 +24,7 @@ University of Toronto National Scholarship valued at $100k
 
 ## Visual Localization for Unmanned Aerial Vehciles
 Current research is on 
-![Overall Pic(assests_/imgs/overallfig3.png)
+![Overall Pic](assests_/imgs/overallfig3.png)
 
 ## Simulation Testing for aUToronto, UofT's Self Driving Car Team
 Worked as the simulation lead

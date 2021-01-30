@@ -9,18 +9,18 @@ layout: default
 
 <table style="width:100%">
   <tr>
-    <th> text-align: left;
-      <b> Master of Applied Science, Emphasis in Robotics						2019 - 2021 </b>
-      <i> University of Toronto, Autonomous Space Robotics Lab, GPA: 4.0/4.0_ </i>
-      [Vector Scholarship in Artificial Intelligence](https://news.engineering.utoronto.ca/five-u-of-t-engineering-students-recognized-with-vector-institute-scholarships-in-ai/) and NSERC Graduate Scholarship 
-      <b> Bachelor of Applied Science in Engineering Science with High Honours			2015 - 2019 </b>
-      <i> University of Toronto, Robotics Major, GPA: 3.94/4.00 </i>
-      University of Toronto National Scholarship valued at $100k
-      [View my LinkedIn Profile](https://www.linkedin.com/in/mollie-bianchi-4963371a5/) 
-      [View my GitHub Profile](https://github.com/MollieBianchi)  
-      [Download my Resume]()
-    </th>
-    <th><img src="assests_/imgs/car_pic.JPG" width="300">/th>     
+    <td> 
+      <b> Master of Applied Science, Emphasis in Robotics &nbsp; 2019 - 2021 </b> <br>
+      <i> University of Toronto, Autonomous Space Robotics Lab, GPA: 4.0/4.0 </i> <br>
+      <a href="https://news.engineering.utoronto.ca/five-u-of-t-engineering-students-recognized-with-vector-institute-scholarships-in-ai/">Vector Scholarship in Artificial Intelligence</a> and NSERC Graduate Scholarship <br> <br>
+      <b> Bachelor of Applied Science in Engineering Science with High Honours &nbsp; 2015 - 2019 </b> <br>
+      <i> University of Toronto, Robotics Major, GPA: 3.94/4.00 </i> <br>
+      University of Toronto National Scholarship valued at $100k <br> <br>
+      <a href="https://www.linkedin.com/in/mollie-bianchi-4963371a5/">View my Linked Profile</a> &nbsp; 
+      <a href="https://github.com/MollieBianchi">View my GitHub Profile</a> &nbsp; 
+      <a href="">Download my Resume</a> <br> &nbsp; 
+    </td>
+    <td><img src="assests_/imgs/car_pic.JPG" width="300"></td>     
   </tr>
 </table>
 

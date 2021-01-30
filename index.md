@@ -54,11 +54,9 @@ Worked as the simulation lead links to winning articles 1st Place Team Overall Y
 
 {% include youtubePlayer.html id="2Z6mPKIv0TM" %}
 
-* * *
+***
 
 ## Evaluating Preferred Velocity Methods Used with ORCA
-
-[Download Project Report]() &nbsp;  [View on GitHub]() &nbsp;  [View Video]()
 
 <table style="width:100%">
   <colgroup>
@@ -68,6 +66,7 @@ Worked as the simulation lead links to winning articles 1st Place Team Overall Y
   <tbody>
     <tr>
       <td> 
+       [Download Project Report]() &nbsp;  [View on GitHub](https://github.com/MollieBianchi/planning_project) &nbsp;  [View Video]()
       The ORCA method [1] is a procedure for finding the closest collision-free velocity to a preferred velocity for each robot in a multi-robot environment. The computation of this preferred velocity is separate from the collision avoidance and is generally achieved using traditional motion planning techniques. The only restriction is that it must be computed quickly as the collision avoidance procedure is computation heavy. Exactly how it was computed was excluded from the original paper. The preferred velocity is important in order to prevent deadlock situations and to ensure smooth paths. This project implements the ORCA method from scratch in MATLAB and presents and evaluates a method for computing the preferred velocity.
       </td>
       <td>
@@ -89,22 +88,28 @@ Often in Reinforcement Learning (RL) the reward function is a binary signal that
 Embed Video
 
 ## Perception Project
+
 <table style="width:100%">
-  <tr>
-    <td> 
+  <colgroup>
+       <col span="1" style="width: 60%;">
+       <col span="1" style="width: 40%;">
+    </colgroup>
+  <tbody>
+    <tr>
+      <td> 
+       [Download Project Report]() &nbsp;  [View Video]()
       Localization is a key aspect of any self-driving vehicle but relying solely on GPS can result in offsets from a given semantic map. Visual localization is a cost effective solution that works by registering live images with images stored in a map. This work presents a method for finding the 3DoF relative pose change between real images captured at Mcity and simulated geo-referenced images from an Mcity simulation, and is intended for use in a visual localization pipeline. It also investigates the use of synthetic data during training to increase performance.
-    </td>
-    <td>
-      <img src="assets/gifs/perception.gif" width="300"> 
-    </td>
-  </tr>
+      </td>
+      <td>
+        <div>
+        <img src="assets/gifs/perception.gif" width="300">  
+        </div>
+      </td>
+    </tr>
+  </tbody>
   </table>
 
 
-
-![Perception Gif](assets/gifs/perception.gif)
-
-link to report
 {% include youtubePlayer.html id="qMyTl605iYE" %}
 
 ## Can Sorting Machine

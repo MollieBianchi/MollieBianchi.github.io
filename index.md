@@ -19,7 +19,7 @@ layout: default
       <a href="https://github.com/MollieBianchi">View my GitHub Profile</a> &nbsp; 
       <a href="">Download my Resume</a> <br> &nbsp; 
     </td>
-    <td><img src="assests_/imgs/car_pic.JPG" width="300"></td>     
+    <td><img src="assets/imgs/car_pic.JPG" width="300"></td>     
   </tr>
 </table>
 
@@ -41,7 +41,7 @@ layout: default
       </td>
       <td>
         <div>
-        <img src="assests_/imgs/overallfig3.png" width="500"> 
+        <img src="assets/imgs/overallfig3.png" width="500"> 
         </div>
       </td>
     </tr>
@@ -56,12 +56,9 @@ Worked as the simulation lead links to winning articles 1st Place Team Overall Y
 
 * * *
 
-## Planning Project
+## Evaluating Preferred Velocity Methods Used with ORCA
 
-_Git Repo_()
-
-link to report
-EMbed Video
+[Download Project Report]() &nbsp;  [View on GitHub]() &nbsp;  [View Video]()
 
 <table style="width:100%">
   <colgroup>
@@ -75,7 +72,7 @@ EMbed Video
       </td>
       <td>
         <div>
-        <img src="assests_/gifs/orca.gif" width="500"> 
+        <img src="assets/gifs/orca.gif" width="500"> 
         </div>
       </td>
     </tr>

@@ -5,16 +5,12 @@ layout: default
 ![Me Car Pic](assests_/imgs/car_pic.JPG)
 
 # Education
-**Master of Applied Science, Emphasis in Robotics						2019 - 2021**
+**Master of Applied Science, Emphasis in Robotics						2019 - 2021**  
+_University of Toronto, Autonomous Space Robotics Lab, GPA: 4.0/4.0_  
+[Vector Scholarship in Artificial Intelligence](https://news.engineering.utoronto.ca/five-u-of-t-engineering-students-recognized-with-vector-institute-scholarships-in-ai/) and NSERC Graduate Scholarship   
 
-_University of Toronto, Autonomous Space Robotics Lab, GPA: 4.0/4.0_
-
-[Vector Scholarship in Artificial Intelligence](https://news.engineering.utoronto.ca/five-u-of-t-engineering-students-recognized-with-vector-institute-scholarships-in-ai/) and NSERC Graduate Scholarship
-
-**Bachelor of Applied Science in Engineering Science with High Honours			2015 - 2019**
-
-_University of Toronto, Robotics Major, GPA: 3.94/4.00_
-
+**Bachelor of Applied Science in Engineering Science with High Honours			2015 - 2019**   
+_University of Toronto, Robotics Major, GPA: 3.94/4.00_   
 University of Toronto National Scholarship valued at $100k
 
 [LinkedIn](https://www.linkedin.com/in/mollie-bianchi-4963371a5/)

@@ -28,30 +28,32 @@ layout: default
 # Projects
 
 ## Visual Localization for Unmanned Aerial Vehciles
-|We propose and demonstrate a fast, robust method for using satellite images to localize an Unmanned Aerial Vehicle (UAV). Previous work using satellite images has large storage and computation costs and is unable to run in real time. In this work, we collect Google Earth (GE) images for a desired flight path offline and an autoencoder is trained to compress these images to a low-dimensional vector representation while retaining the key features. This trained autoencoder is used to compress a real UAV image, which is then compared to the precollected, nearby, autoencoded GE images using an inner- product kernel. This results in a distribution of weights over the corresponding GE image poses and is used to generate a single localization and associated covariance to represent uncertainty. Our localization is computed in 1% of the time of the current standard and is able to achieve a comparable RMSE of less than 3m in our experiments, where we robustly matched UAV images from six runs spanning the lighting conditions of a single day to the same map of satellite images. | <img src="assests_/imgs/overallfig3.png" width="300"> |
-|---- | -----|
 
-## Simulation Testing for aUToronto, UofT's Self Driving Car Team
+<table style="width:100%">
+  <tr>
+    <td> 
+      We propose and demonstrate a fast, robust method for using satellite images to localize an Unmanned Aerial Vehicle (UAV). Previous work using satellite images has large storage and computation costs and is unable to run in real time. In this work, we collect Google Earth (GE) images for a desired flight path offline and an autoencoder is trained to compress these images to a low-dimensional vector representation while retaining the key features. This trained autoencoder is used to compress a real UAV image, which is then compared to the precollected, nearby, autoencoded GE images using an inner- product kernel. This results in a distribution of weights over the corresponding GE image poses and is used to generate a single localization and associated covariance to represent uncertainty. Our localization is computed in 1% of the time of the current standard and is able to achieve a comparable RMSE of less than 3m in our experiments, where we robustly matched UAV images from six runs spanning the lighting conditions of a single day to the same map of satellite images.
+    </td>
+    <td>
+      <img src="assests_/imgs/overallfig3.png" width="300"> 
+    </td>
+  </tr>
+  </table>
 
-Worked as the simulation lead links to winning articles 1st Place Team Overall Years 1, 2, and 3 in the AutoDrive Challenge hosted by SAE and General Motors 1st Place in the MathWorks Simulation Challenge Years 2 and 3 Author on “Zeus: A system description of the two-time winner of the collegiate SAE auto drive competition.” in the Journal of Field Robotics, 2020 Worked with existing simulation solutions (MATLAB’s Automated Driving Scenario, CARLA which is powered by Unreal Engine, RightHook) to create specific dynamic evaluation scenarios Created a ROS bridge to interface between developed autonomy nodes and output from the simulation | {% include youtubePlayer.html id="2Z6mPKIv0TM" %}
+## Simulation Testing for aUToronto, [UofT's Self Driving Car Team](https://www.autodrive.utoronto.ca)
+
+Worked as the simulation lead links to winning articles 1st Place Team Overall Years [1](), [2](), and [3]() in the AutoDrive Challenge hosted by SAE and General Motors 1st Place in the MathWorks Simulation Challenge Years 2 and 3 Author on [“Zeus: A system description of the two-time winner of the collegiate SAE auto drive competition.”](https://arxiv.org/abs/2004.08752) in the Journal of Field Robotics, 2020.  Worked with existing simulation solutions (MATLAB’s Automated Driving Scenario, CARLA which is powered by Unreal Engine, RightHook) to create specific dynamic evaluation scenarios Created a ROS bridge to interface between developed autonomy nodes and output from the simulation | {% include youtubePlayer.html id="2Z6mPKIv0TM" %}
 ---- | ----
-
-
-include videos/gifs and some description
-
-[Website](https://www.autodrive.utoronto.ca)
-
-Burnett, Keenan and Qian, Jingxing and Du, Xintong and Liu, Linqiao and Yoon, David J. and Shen, Tianchang and Sun, Susan and Samavi, Sepehr and Sorocky, Michael J. and Bianchi, Mollie and Zhang, Kaicheng and Arkhangorodsky, Arkady and Sykora, Quinlan and Lu, Shichen and Huang, Yizhou and Schoellig, Angela P. and Barfoot, Timothy D. "**Zeus: A system description of the two-time winner of the collegiate SAE autodrive competition.**" _Journal of Field Robotics_. 2020.  [arXiv:2004.08752 [cs.RO]](https://arxiv.org/abs/2004.08752) 
-
 
 [Video](https://youtu.be/2Z6mPKIv0TM)
 
 
 
 ## Controls Project
-_Git Repo_()
+
 Often in Reinforcement Learning (RL) the reward function is a binary signal that depends on whether or not the goal has been reached. Only if the agent achieves the goal does it receive a reward. This means an extremely large amount of samples are required before the agent is able to learn. Hindsight Experience Replay (HER) is a method that replays past experiences with a new goal. This has increased the sampling efficiency and practicality of RL on problems with sparse rewards. However, currently the new goals are picked based on a hand-crafted heuristic. This project looks at a new method which selects replay goals that the agent is able to learn the most from. This is achieved by selecting goals that maximize the Bellman error. This method was evaluated on 1D and 2D robotic goal search problems and compared against the existing Future and Final goal selection methods.
-link to report
+[Project Report]()
+[Git Repo]()
 Embed Video
 
 ## Planning Project

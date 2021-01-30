@@ -93,7 +93,7 @@ Worked as the simulation lead links to winning articles 1st Place Team Overall Y
     <tr>
       <td> 
       Often in Reinforcement Learning (RL) the reward function is a binary signal that depends on whether or not the goal has been reached. Only if the agent achieves the goal does it receive a reward. This means an extremely large amount of samples are required before the agent is able to learn. Hindsight Experience Replay (HER) is a method that replays past experiences with a new goal. This has increased the sampling efficiency and practicality of RL on problems with sparse rewards. However, currently the new goals are picked based on a hand-crafted heuristic. This project looks at a new method which selects replay goals that the agent is able to learn the most from. This is achieved by selecting goals that maximize the Bellman error. This method was evaluated on 1D and 2D robotic goal search problems and compared against the existing Future and Final goal selection methods. <br>
-        <a href="assets/pdfs/ControlsFinalReport.pdf"> Project Report </a> &nbsp;  <a href="https://github.com/MollieBianchi/controls_project"> View on GitHub </a> &nbsp;  <a href=""> View Video </a>
+        <a href="assets/pdfs/ControlsFinalReport.pdf"> Project Report </a> &nbsp;  <a href="https://github.com/MollieBianchi/controls_project"> View on GitHub </a> &nbsp;  <a href="https://youtu.be/YPvrOWMDQbc"> View Video </a>
       </td>
       <td>
         <div>
@@ -129,7 +129,11 @@ Worked as the simulation lead links to winning articles 1st Place Team Overall Y
 
 ## Can Sorting Machine
 
-Insert blurb
+
+1st place team in the full semester course competition to design and construct a fully autonomous can sorting machine capable of seperating cans into tin cans with label, tin cans without label, pop cans with tab, and pop cans without tab.
+• Design and fabricate the machine structure
+• Select and install appropriate sensors, actuators, and motors
+• Integrate with electrical and microcontroller components
 
 {% include youtubePlayer.html id="jR3kofZbcv0" %}
 

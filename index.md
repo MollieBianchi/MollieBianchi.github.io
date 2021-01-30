@@ -27,7 +27,7 @@ layout: default
 
 # Projects
 
-## Visual Localization for Unmanned Aerial Vehciles
+## Visual Localization for Unmanned Aerial Vehicles
 
 <table style="width:100%">
   <tr>

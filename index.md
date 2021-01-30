@@ -42,8 +42,10 @@ layout: default
 
 ## Simulation Testing for aUToronto, [UofT's Self Driving Car Team](https://www.autodrive.utoronto.ca)
 
-Worked as the simulation lead links to winning articles 1st Place Team Overall Years [1](), [2](), and [3]() in the AutoDrive Challenge hosted by SAE and General Motors 1st Place in the MathWorks Simulation Challenge Years 2 and 3 Author on [“Zeus: A system description of the two-time winner of the collegiate SAE auto drive competition.”](https://arxiv.org/abs/2004.08752) in the Journal of Field Robotics, 2020.  Worked with existing simulation solutions (MATLAB’s Automated Driving Scenario, CARLA which is powered by Unreal Engine, RightHook) to create specific dynamic evaluation scenarios Created a ROS bridge to interface between developed autonomy nodes and output from the simulation | {% include youtubePlayer.html id="2Z6mPKIv0TM" %}
----- | ----
+Worked as the simulation lead links to winning articles 1st Place Team Overall Years [1](), [2](), and [3]() in the AutoDrive Challenge hosted by SAE and General Motors 1st Place in the MathWorks Simulation Challenge Years 2 and 3 Author on [“Zeus: A system description of the two-time winner of the collegiate SAE auto drive competition.”](https://arxiv.org/abs/2004.08752) in the Journal of Field Robotics, 2020.  Worked with existing simulation solutions (MATLAB’s Automated Driving Scenario, CARLA which is powered by Unreal Engine, RightHook) to create specific dynamic evaluation scenarios Created a ROS bridge to interface between developed autonomy nodes and output from the simulation 
+
+{% include youtubePlayer.html id="2Z6mPKIv0TM" %}
+
 
 [Video](https://youtu.be/2Z6mPKIv0TM)
 
@@ -63,7 +65,18 @@ link to report
 EMbed Video
 
 ## Perception Project
-Localization is a key aspect of any self-driving vehicle but relying solely on GPS can result in offsets from a given semantic map. Visual localization is a cost effective solution that works by registering live images with images stored in a map. This work presents a method for finding the 3DoF relative pose change between real images captured at Mcity and simulated geo-referenced images from an Mcity simulation, and is intended for use in a visual localization pipeline. It also investigates the use of synthetic data during training to increase performance.
+<table style="width:100%">
+  <tr>
+    <td> 
+      Localization is a key aspect of any self-driving vehicle but relying solely on GPS can result in offsets from a given semantic map. Visual localization is a cost effective solution that works by registering live images with images stored in a map. This work presents a method for finding the 3DoF relative pose change between real images captured at Mcity and simulated geo-referenced images from an Mcity simulation, and is intended for use in a visual localization pipeline. It also investigates the use of synthetic data during training to increase performance.
+    </td>
+    <td>
+      <img src="assets/gifs/perception.gif" width="300"> 
+    </td>
+  </tr>
+  </table>
+
+
 
 ![Perception Gif](assets/gifs/perception.gif)
 
@@ -73,8 +86,9 @@ link to report
 ## Can Sorting Machine
 Embed video
 
-# Work Experience
 
-# Skills
+# Fun Stuff
+{% include youtubePlayer.html id="n5x_kSzzbGw" %}
+
 
 

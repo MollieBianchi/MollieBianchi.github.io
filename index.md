@@ -54,7 +54,8 @@ Worked as the simulation lead links to winning articles 1st Place Team Overall Y
 
 {% include youtubePlayer.html id="2Z6mPKIv0TM" %}
 <br>
-***
+<hr>
+* * *
 
 ## Evaluating Preferred Velocity Methods Used with ORCA
 
@@ -66,8 +67,8 @@ Worked as the simulation lead links to winning articles 1st Place Team Overall Y
   <tbody>
     <tr>
       <td> 
-        <a href="assets/pdfs/PlanningFinalReport.pdf"> Download Project Report </a>( &nbsp;  <a href="https://github.com/MollieBianchi/planning_project"> View on GitHub </a> &nbsp;  <a href=""> View Video </a>
-      The ORCA method [1] is a procedure for finding the closest collision-free velocity to a preferred velocity for each robot in a multi-robot environment. The computation of this preferred velocity is separate from the collision avoidance and is generally achieved using traditional motion planning techniques. The only restriction is that it must be computed quickly as the collision avoidance procedure is computation heavy. Exactly how it was computed was excluded from the original paper. The preferred velocity is important in order to prevent deadlock situations and to ensure smooth paths. This project implements the ORCA method from scratch in MATLAB and presents and evaluates a method for computing the preferred velocity.
+        The ORCA method [1] is a procedure for finding the closest collision-free velocity to a preferred velocity for each robot in a multi-robot environment. The computation of this preferred velocity is separate from the collision avoidance and is generally achieved using traditional motion planning techniques. The only restriction is that it must be computed quickly as the collision avoidance procedure is computation heavy. Exactly how it was computed was excluded from the original paper. The preferred velocity is important in order to prevent deadlock situations and to ensure smooth paths. This project implements the ORCA method from scratch in MATLAB and presents and evaluates a method for computing the preferred velocity. <br>
+      <a href="assets/pdfs/PlanningFinalReport.pdf"> Project Report </a> &nbsp;  <a href="https://github.com/MollieBianchi/planning_project"> View on GitHub </a> &nbsp;  <a href="https://youtu.be/DuNtqT4eaR4"> View Video </a>
       </td>
       <td>
         <div>
@@ -80,7 +81,7 @@ Worked as the simulation lead links to winning articles 1st Place Team Overall Y
 
 
 
-## Controls Project
+## Evaluating Efficient Goal Selection Methods for Hindsight Expereince Replay
 
 <table style="width:100%">
   <colgroup>
@@ -90,8 +91,8 @@ Worked as the simulation lead links to winning articles 1st Place Team Overall Y
   <tbody>
     <tr>
       <td> 
-       [Download Project Report]() &nbsp;  [View on GutHub]() &nbsp;  [View Video]()
-      Often in Reinforcement Learning (RL) the reward function is a binary signal that depends on whether or not the goal has been reached. Only if the agent achieves the goal does it receive a reward. This means an extremely large amount of samples are required before the agent is able to learn. Hindsight Experience Replay (HER) is a method that replays past experiences with a new goal. This has increased the sampling efficiency and practicality of RL on problems with sparse rewards. However, currently the new goals are picked based on a hand-crafted heuristic. This project looks at a new method which selects replay goals that the agent is able to learn the most from. This is achieved by selecting goals that maximize the Bellman error. This method was evaluated on 1D and 2D robotic goal search problems and compared against the existing Future and Final goal selection methods.
+      Often in Reinforcement Learning (RL) the reward function is a binary signal that depends on whether or not the goal has been reached. Only if the agent achieves the goal does it receive a reward. This means an extremely large amount of samples are required before the agent is able to learn. Hindsight Experience Replay (HER) is a method that replays past experiences with a new goal. This has increased the sampling efficiency and practicality of RL on problems with sparse rewards. However, currently the new goals are picked based on a hand-crafted heuristic. This project looks at a new method which selects replay goals that the agent is able to learn the most from. This is achieved by selecting goals that maximize the Bellman error. This method was evaluated on 1D and 2D robotic goal search problems and compared against the existing Future and Final goal selection methods. <br>
+        <a href="assets/pdfs/ControlsFinalReport.pdf"> Project Report </a> &nbsp;  <a href="https://github.com/MollieBianchi/controls_project"> View on GitHub </a> &nbsp;  <a href=""> View Video </a>
       </td>
       <td>
         <div>
@@ -112,8 +113,8 @@ Worked as the simulation lead links to winning articles 1st Place Team Overall Y
   <tbody>
     <tr>
       <td> 
-       <a href="">Download Project Report</a> &nbsp;  <a href="https://youtu.be/qMyTl605iYE"> View Video </a>
-      Localization is a key aspect of any self-driving vehicle but relying solely on GPS can result in offsets from a given semantic map. Visual localization is a cost effective solution that works by registering live images with images stored in a map. This work presents a method for finding the 3DoF relative pose change between real images captured at Mcity and simulated geo-referenced images from an Mcity simulation, and is intended for use in a visual localization pipeline. It also investigates the use of synthetic data during training to increase performance.
+      Localization is a key aspect of any self-driving vehicle but relying solely on GPS can result in offsets from a given semantic map. Visual localization is a cost effective solution that works by registering live images with images stored in a map. This work presents a method for finding the 3DoF relative pose change between real images captured at Mcity and simulated geo-referenced images from an Mcity simulation, and is intended for use in a visual localization pipeline. It also investigates the use of synthetic data during training to increase performance. <br>
+        <a href="">Project Report</a> &nbsp;  <a href="https://youtu.be/qMyTl605iYE"> View Video </a>
       </td>
       <td>
         <div>

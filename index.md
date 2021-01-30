@@ -53,7 +53,7 @@ layout: default
 Worked as the simulation lead links to winning articles 1st Place Team Overall Years [1](https://www.utoronto.ca/news/u-t-s-autoronto-team-wins-first-competition-autodrive-challenge), [2](https://betakit.com/u-of-ts-self-driving-car-dominates-2019-autodrive-challenge/), and [3](https://www.utoronto.ca/news/third-year-running-u-t-engineering-team-wins-international-self-driving-car-challenge) in the AutoDrive Challenge hosted by SAE and General Motors 1st Place in the MathWorks Simulation Challenge Years 2 and 3 Author on [“Zeus: A system description of the two-time winner of the collegiate SAE auto drive competition.”](https://arxiv.org/abs/2004.08752) in the Journal of Field Robotics, 2020.  Worked with existing simulation solutions (MATLAB’s Automated Driving Scenario, CARLA which is powered by Unreal Engine, RightHook) to create specific dynamic evaluation scenarios Created a ROS bridge to interface between developed autonomy nodes and output from the simulation 
 
 {% include youtubePlayer.html id="2Z6mPKIv0TM" %}
-
+<br>
 ***
 
 ## Evaluating Preferred Velocity Methods Used with ORCA
@@ -66,7 +66,7 @@ Worked as the simulation lead links to winning articles 1st Place Team Overall Y
   <tbody>
     <tr>
       <td> 
-       [Download Project Report]() &nbsp;  [View on GitHub](https://github.com/MollieBianchi/planning_project) &nbsp;  [View Video]()
+        <a href=""> Download Project Report </a>( &nbsp;  <a href="https://github.com/MollieBianchi/planning_project"> View on GitHub </a> &nbsp;  <a href=""> View Video </a>
       The ORCA method [1] is a procedure for finding the closest collision-free velocity to a preferred velocity for each robot in a multi-robot environment. The computation of this preferred velocity is separate from the collision avoidance and is generally achieved using traditional motion planning techniques. The only restriction is that it must be computed quickly as the collision avoidance procedure is computation heavy. Exactly how it was computed was excluded from the original paper. The preferred velocity is important in order to prevent deadlock situations and to ensure smooth paths. This project implements the ORCA method from scratch in MATLAB and presents and evaluates a method for computing the preferred velocity.
       </td>
       <td>
@@ -112,7 +112,7 @@ Worked as the simulation lead links to winning articles 1st Place Team Overall Y
   <tbody>
     <tr>
       <td> 
-       [Download Project Report]() &nbsp;  [View Video]()
+       <a href="">Download Project Report</a> &nbsp;  <a href="https://youtu.be/qMyTl605iYE"> View Video </a>
       Localization is a key aspect of any self-driving vehicle but relying solely on GPS can result in offsets from a given semantic map. Visual localization is a cost effective solution that works by registering live images with images stored in a map. This work presents a method for finding the 3DoF relative pose change between real images captured at Mcity and simulated geo-referenced images from an Mcity simulation, and is intended for use in a visual localization pipeline. It also investigates the use of synthetic data during training to increase performance.
       </td>
       <td>

@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Mollie Bianchi
+#### Mollie Bianchi
 ***
 
 # Education 

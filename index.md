@@ -56,6 +56,32 @@ Worked as the simulation lead links to winning articles 1st Place Team Overall Y
 
 * * *
 
+## Planning Project
+
+_Git Repo_()
+
+link to report
+EMbed Video
+
+<table style="width:100%">
+  <colgroup>
+       <col span="1" style="width: 60%;">
+       <col span="1" style="width: 40%;">
+    </colgroup>
+  <tbody>
+    <tr>
+      <td> 
+      The ORCA method [1] is a procedure for finding the closest collision-free velocity to a preferred velocity for each robot in a multi-robot environment. The computation of this preferred velocity is separate from the collision avoidance and is generally achieved using traditional motion planning techniques. The only restriction is that it must be computed quickly as the collision avoidance procedure is computation heavy. Exactly how it was computed was excluded from the original paper. The preferred velocity is important in order to prevent deadlock situations and to ensure smooth paths. This project implements the ORCA method from scratch in MATLAB and presents and evaluates a method for computing the preferred velocity.
+      </td>
+      <td>
+        <div>
+        <img src="assests_/gifs/orca.gif" width="500"> 
+        </div>
+      </td>
+    </tr>
+  </tbody>
+  </table>
+
 
 
 ## Controls Project
@@ -64,12 +90,6 @@ Often in Reinforcement Learning (RL) the reward function is a binary signal that
 [Project Report]()
 [Git Repo]()
 Embed Video
-
-## Planning Project
-_Git Repo_()
-The ORCA method [1] is a procedure for finding the closest collision-free velocity to a preferred velocity for each robot in a multi-robot environment. The computation of this preferred velocity is separate from the collision avoidance and is generally achieved using traditional motion planning techniques. The only restriction is that it must be computed quickly as the collision avoidance procedure is computation heavy. Exactly how it was computed was excluded from the original paper. The preferred velocity is important in order to prevent deadlock situations and to ensure smooth paths. This project implements the ORCA method from scratch in MATLAB and presents and evaluates a method for computing the preferred velocity.
-link to report
-EMbed Video
 
 ## Perception Project
 <table style="width:100%">

@@ -174,10 +174,6 @@ Used OpenCV to analyze loaves of bread travelling along a conveyor for quality c
   </table>
 
 
-<br>
-<hr>
-<br>
-
 # Fun Stuff
 {% include youtubePlayer.html id="n5x_kSzzbGw" %}
 

@@ -42,12 +42,10 @@ layout: default
 
 ## Simulation Testing for aUToronto, [UofT's Self Driving Car Team](https://www.autodrive.utoronto.ca)
 
-Worked as the simulation lead links to winning articles 1st Place Team Overall Years [1](), [2](), and [3]() in the AutoDrive Challenge hosted by SAE and General Motors 1st Place in the MathWorks Simulation Challenge Years 2 and 3 Author on [“Zeus: A system description of the two-time winner of the collegiate SAE auto drive competition.”](https://arxiv.org/abs/2004.08752) in the Journal of Field Robotics, 2020.  Worked with existing simulation solutions (MATLAB’s Automated Driving Scenario, CARLA which is powered by Unreal Engine, RightHook) to create specific dynamic evaluation scenarios Created a ROS bridge to interface between developed autonomy nodes and output from the simulation 
+Worked as the simulation lead links to winning articles 1st Place Team Overall Years [1](https://www.utoronto.ca/news/u-t-s-autoronto-team-wins-first-competition-autodrive-challenge), [2](https://betakit.com/u-of-ts-self-driving-car-dominates-2019-autodrive-challenge/), and [3](https://www.utoronto.ca/news/third-year-running-u-t-engineering-team-wins-international-self-driving-car-challenge) in the AutoDrive Challenge hosted by SAE and General Motors 1st Place in the MathWorks Simulation Challenge Years 2 and 3 Author on [“Zeus: A system description of the two-time winner of the collegiate SAE auto drive competition.”](https://arxiv.org/abs/2004.08752) in the Journal of Field Robotics, 2020.  Worked with existing simulation solutions (MATLAB’s Automated Driving Scenario, CARLA which is powered by Unreal Engine, RightHook) to create specific dynamic evaluation scenarios Created a ROS bridge to interface between developed autonomy nodes and output from the simulation 
 
 {% include youtubePlayer.html id="2Z6mPKIv0TM" %}
-
-
-[Video](https://youtu.be/2Z6mPKIv0TM)
+***
 
 
 

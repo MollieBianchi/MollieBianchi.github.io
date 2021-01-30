@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![Me Car Pic](assests_/imgs/car_pic.JPG)
+
 # Education
 **Master of Applied Science, Emphasis in Robotics						2019 - 2021**
 
@@ -22,6 +24,7 @@ University of Toronto National Scholarship valued at $100k
 
 ## Visual Localization for Unmanned Aerial Vehciles
 Current research is on 
+![Overall Pic(assests_/imgs/overallfig3.png)
 
 ## Simulation Testing for aUToronto, UofT's Self Driving Car Team
 Worked as the simulation lead

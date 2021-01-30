@@ -145,8 +145,8 @@ Worked as the simulation lead links to winning articles 1st Place Team Overall Y
 
 <table style="width:100%">
   <colgroup>
-       <col span="1" style="width: 60%;">
-       <col span="1" style="width: 40%;">
+       <col span="1" style="width: 50%;">
+       <col span="1" style="width: 50%;">
     </colgroup>
   <tbody>
     <tr>
@@ -155,7 +155,7 @@ Worked as the simulation lead links to winning articles 1st Place Team Overall Y
 <i>Innovative Automation Inc., Barrie, Ontario </i> <br>
 Developed and deployed WinForms and ASP .Net applications in C# for use in production including modifications to the SQL database
 Programmed PLCs for the operation of automated robotic equipment and designed Human Machine Interfaces
-Troubleshot machine operations and rework design during testing phase
+Troubleshot machine operations and rework design during testing phase <br>
 
 <b> IoT App Developer Intern									Summer 2017 </b> <br>
 <i>More Automation Solutions Inc., Mississauga, Ontario </i> <br>

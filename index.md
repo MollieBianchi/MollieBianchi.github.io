@@ -96,7 +96,7 @@ Worked as the simulation lead links to winning articles 1st Place Team Overall Y
       </td>
       <td>
         <div>
-        <img src="assets/gifs/perception.gif" width="300">  
+        <img src="assets/gifs/controls.gif" width="300">  
         </div>
       </td>
     </tr>
@@ -114,7 +114,7 @@ Worked as the simulation lead links to winning articles 1st Place Team Overall Y
     <tr>
       <td> 
       Localization is a key aspect of any self-driving vehicle but relying solely on GPS can result in offsets from a given semantic map. Visual localization is a cost effective solution that works by registering live images with images stored in a map. This work presents a method for finding the 3DoF relative pose change between real images captured at Mcity and simulated geo-referenced images from an Mcity simulation, and is intended for use in a visual localization pipeline. It also investigates the use of synthetic data during training to increase performance. <br>
-        <a href="">Project Report</a> &nbsp;  <a href="https://youtu.be/qMyTl605iYE"> View Video </a>
+        <a href="assests/pdfs/PerceptionFinalReport.pdf">Project Report</a> &nbsp;  <a href="https://youtu.be/qMyTl605iYE"> View Video </a>
       </td>
       <td>
         <div>

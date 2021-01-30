@@ -67,7 +67,7 @@ Worked as the simulation lead links to winning articles 1st Place Team Overall Y
   <tbody>
     <tr>
       <td> 
-        The ORCA method [1] is a procedure for finding the closest collision-free velocity to a preferred velocity for each robot in a multi-robot environment. The computation of this preferred velocity is separate from the collision avoidance and is generally achieved using traditional motion planning techniques. The only restriction is that it must be computed quickly as the collision avoidance procedure is computation heavy. Exactly how it was computed was excluded from the original paper. The preferred velocity is important in order to prevent deadlock situations and to ensure smooth paths. This project implements the ORCA method from scratch in MATLAB and presents and evaluates a method for computing the preferred velocity. <br>
+        The <a href="">ORCA method </a> is a procedure for finding the closest collision-free velocity to a preferred velocity for each robot in a multi-robot environment. The computation of this preferred velocity is separate from the collision avoidance and is generally achieved using traditional motion planning techniques. The only restriction is that it must be computed quickly as the collision avoidance procedure is computation heavy. Exactly how it was computed was excluded from the original paper. The preferred velocity is important in order to prevent deadlock situations and to ensure smooth paths. This project implements the ORCA method from scratch in MATLAB and presents and evaluates a method for computing the preferred velocity. <br>
       <a href="assets/pdfs/PlanningFinalReport.pdf"> Project Report </a> &nbsp;  <a href="https://github.com/MollieBianchi/planning_project"> View on GitHub </a> &nbsp;  <a href="https://youtu.be/DuNtqT4eaR4"> View Video </a>
       </td>
       <td>
@@ -126,10 +126,9 @@ Worked as the simulation lead links to winning articles 1st Place Team Overall Y
   </table>
 
 
-{% include youtubePlayer.html id="qMyTl605iYE" %}
-
 ## Can Sorting Machine
-Embed video
+
+{% include youtubePlayer.html id="jR3kofZbcv0" %}
 
 
 # Fun Stuff

@@ -135,7 +135,7 @@ Worked as the simulation lead links to winning articles 1st Place Team Overall Y
 • Select and install appropriate sensors, actuators, and motors
 • Integrate with electrical and microcontroller components
 
-{% include youtubePlayer.html id="jR3kofZbcv0" %}
+{% include youtubePlayer.html id="jpynR-rEgTc" %}
 
 <br>
 <hr>

@@ -132,8 +132,8 @@ Insert blurb
 
 {% include youtubePlayer.html id="jR3kofZbcv0" %}
 
-
-***
+<br>
+<hr>
 <br>
 
 # Fun Stuff

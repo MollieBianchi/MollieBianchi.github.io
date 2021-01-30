@@ -143,18 +143,20 @@ Worked as the simulation lead links to winning articles 1st Place Team Overall Y
 
 # Work Experience
 
-<b> IT and Controls Intern									Summer 2018 </b>
-<i>Innovative Automation Inc., Barrie, Ontario </i>
+<b> IT and Controls Intern									Summer 2018 </b> <br>
+<i>Innovative Automation Inc., Barrie, Ontario </i> <br>
 Developed and deployed WinForms and ASP .Net applications in C# for use in production including modifications to the SQL database
 Programmed PLCs for the operation of automated robotic equipment and designed Human Machine Interfaces
 Troubleshot machine operations and rework design during testing phase
 
-<b> IoT App Developer Intern									Summer 2017 </b>
-<i>More Automation Solutions Inc., Mississauga, Ontario </i>
+<b> IoT App Developer Intern									Summer 2017 </b> <br>
+<i>More Automation Solutions Inc., Mississauga, Ontario </i> <br>
 Built Windows Universal Platform and web based applications for industrial IoT products 
 Generated databases to store sample records using SQLite
 Developed accompanying graphical user interfaces for viewing database records using HTML and Angular JS 
 Used OpenCV to analyze loaves of bread travelling along a conveyor for quality control
+
+  <img src="assets/gifs/work.gif" width="300">  
 
 <br>
 <hr>

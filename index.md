@@ -63,7 +63,7 @@ Localization is a key aspect of any self-driving vehicle but relying solely on G
 ![Perception Gif](assets/gifs/perception.gif)
 
 link to report
-Embed video
+{% include youtubePlayer.html id="qMyTl605iYE" %}
 
 ## Can Sorting Machine
 Embed video

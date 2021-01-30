@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 #### Mollie Bianchi
 ***
 
@@ -118,7 +119,7 @@ Worked as the simulation lead links to winning articles 1st Place Team Overall Y
       </td>
       <td>
         <div>
-        <img src="assets/gifs/perception.gif" width="300">  
+        <img src="assets/gifs/perception2.gif" width="300">  
         </div>
       </td>
     </tr>

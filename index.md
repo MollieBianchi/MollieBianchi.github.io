@@ -9,11 +9,11 @@ layout: default
 <table style="width:100%">
   <tr>
     <td> 
-      <b> Master of Applied Science, Emphasis in Robotics &nbsp; 2019 - 2021 </b> <br>
-      <i> University of Toronto, Autonomous Space Robotics Lab, GPA: 4.0/4.0 </i> <br>
+      <b> Master of Applied Science, Emphasis in Robotics </b> <br>
+      <i> University of Toronto, Autonomous Space Robotics Lab, GPA: 4.0/4.0, 2019 - 2021</i> <br>
       <a href="https://news.engineering.utoronto.ca/five-u-of-t-engineering-students-recognized-with-vector-institute-scholarships-in-ai/">Vector Scholarship in Artificial Intelligence</a> and NSERC Graduate Scholarship <br> <br>
-      <b> Bachelor of Applied Science in Engineering Science with High Honours &nbsp; 2015 - 2019 </b> <br>
-      <i> University of Toronto, Robotics Major, GPA: 3.94/4.00 </i> <br>
+      <b> Bachelor of Applied Science in Engineering Science with High Honours </b> <br>
+      <i> University of Toronto, Robotics Major, GPA: 3.94/4.00, 2015 - 2019 </i> <br>
       University of Toronto National Scholarship valued at $100k <br> <br>
       <a href="https://www.linkedin.com/in/mollie-bianchi-4963371a5/">View my Linked Profile</a> &nbsp; 
       <a href="https://github.com/MollieBianchi">View my GitHub Profile</a> &nbsp; 

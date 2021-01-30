@@ -19,7 +19,7 @@ layout: default
       <a href="https://github.com/MollieBianchi">View my GitHub Profile</a> &nbsp; 
       <a href="assets/pdfs/MollieBianchiResume.pdf">Download my Resume</a> <br> &nbsp; 
     </td>
-    <td><img src="assets/imgs/car_pic.JPG" width="300"></td>     
+    <td><div><img src="assets/imgs/car_pic.JPG" width="300"></div></td>     
   </tr>
 </table>
 

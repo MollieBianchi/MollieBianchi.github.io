@@ -30,14 +30,22 @@ layout: default
 ## Visual Localization for Unmanned Aerial Vehicles
 
 <table style="width:100%">
-  <tr>
-    <td> 
-      We propose and demonstrate a fast, robust method for using satellite images to localize an Unmanned Aerial Vehicle (UAV). Previous work using satellite images has large storage and computation costs and is unable to run in real time. In this work, we collect Google Earth (GE) images for a desired flight path offline and an autoencoder is trained to compress these images to a low-dimensional vector representation while retaining the key features. This trained autoencoder is used to compress a real UAV image, which is then compared to the precollected, nearby, autoencoded GE images using an inner- product kernel. This results in a distribution of weights over the corresponding GE image poses and is used to generate a single localization and associated covariance to represent uncertainty. Our localization is computed in 1% of the time of the current standard and is able to achieve a comparable RMSE of less than 3m in our experiments, where we robustly matched UAV images from six runs spanning the lighting conditions of a single day to the same map of satellite images.
-    </td>
-    <td>
-      <img src="assests_/imgs/overallfig3.png" width="300"> 
-    </td>
-  </tr>
+  <colgroup>
+       <col span="1" style="width: 60%;">
+       <col span="1" style="width: 40%;">
+    </colgroup>
+  <tbody>
+    <tr>
+      <td> 
+        We propose and demonstrate a fast, robust method for using satellite images to localize an Unmanned Aerial Vehicle (UAV). Previous work using satellite images has large storage and computation costs and is unable to run in real time. In this work, we collect Google Earth (GE) images for a desired flight path offline and an autoencoder is trained to compress these images to a low-dimensional vector representation while retaining the key features. This trained autoencoder is used to compress a real UAV image, which is then compared to the precollected, nearby, autoencoded GE images using an inner- product kernel. This results in a distribution of weights over the corresponding GE image poses and is used to generate a single localization and associated covariance to represent uncertainty. Our localization is computed in 1% of the time of the current standard and is able to achieve a comparable RMSE of less than 3m in our experiments, where we robustly matched UAV images from six runs spanning the lighting conditions of a single day to the same map of satellite images.
+      </td>
+      <td>
+        <div>
+        <img src="assests_/imgs/overallfig3.png" width="500"> 
+        </div>
+      </td>
+    </tr>
+  </tbody>
   </table>
 
 ## Simulation Testing for aUToronto, [UofT's Self Driving Car Team](https://www.autodrive.utoronto.ca)

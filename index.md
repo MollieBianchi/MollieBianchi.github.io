@@ -128,8 +128,13 @@ Worked as the simulation lead links to winning articles 1st Place Team Overall Y
 
 ## Can Sorting Machine
 
+Insert blurb
+
 {% include youtubePlayer.html id="jR3kofZbcv0" %}
 
+
+***
+<br>
 
 # Fun Stuff
 {% include youtubePlayer.html id="n5x_kSzzbGw" %}

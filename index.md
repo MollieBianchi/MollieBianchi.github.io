@@ -155,7 +155,8 @@ Worked as the simulation lead links to winning articles 1st Place Team Overall Y
 <i>Innovative Automation Inc., Barrie, Ontario </i> <br>
 Developed and deployed WinForms and ASP .Net applications in C# for use in production including modifications to the SQL database
 Programmed PLCs for the operation of automated robotic equipment and designed Human Machine Interfaces
-Troubleshot machine operations and rework design during testing phase <br>
+Troubleshot machine operations and rework design during testing phase <br> 
+        <br>
 
 <b> IoT App Developer Intern									Summer 2017 </b> <br>
 <i>More Automation Solutions Inc., Mississauga, Ontario </i> <br>
@@ -166,7 +167,7 @@ Used OpenCV to analyze loaves of bread travelling along a conveyor for quality c
       </td>
       <td>
         <div>
-         <img src="assets/gifs/work.gif" width="300">   
+         <img src="assets/gifs/work.gif" width="400">   
         </div>
       </td>
     </tr>

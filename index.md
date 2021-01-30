@@ -2,8 +2,7 @@
 layout: default
 ---
 # Mollie Bianchi
-
-
+***
 
 # Education 
 
@@ -24,13 +23,13 @@ layout: default
   </tr>
 </table>
 
-***
+
 
 # Projects
 
 ## Visual Localization for Unmanned Aerial Vehciles
-Current research is on 
-![Overall Pic](assets/imgs/overallfig3.png)
+<img src="assests_/imgs/overallfig3.png" width="300"> | Current research is on 
+---- | -----
 
 ## Simulation Testing for aUToronto, UofT's Self Driving Car Team
 Worked as the simulation lead

@@ -146,7 +146,7 @@ For my undergraduate engeering design course, I was the electromechanical member
   <tbody>
     <tr>
       <td> 
-      <b> IT and Controls Intern &nbsp; Summer 2018 </b> <br>
+      <b> IT and Controls Intern &nbsp; &nbsp; &nbsp; Summer 2018 </b> <br>
 <i>Innovative Automation Inc., Barrie, Ontario </i> <br>
   <ul>
    <li>Developed and deployed WinForms and ASP .Net applications in C# for use in production including modifications to the SQL database</li>
@@ -154,7 +154,7 @@ For my undergraduate engeering design course, I was the electromechanical member
    <li>Troubleshot machine operations and rework design during testing phase</li>
   </ul>
 
-<b> IoT App Developer Intern &nbsp; Summer 2017 </b> <br>
+<b> IoT App Developer Intern &nbsp; &nbsp; &nbsp;Summer 2017 </b> <br>
 <i>More Automation Solutions Inc., Mississauga, Ontario </i> <br>
 <ul>
    <li>Built Windows Universal Platform and web based applications for industrial IoT products</li>

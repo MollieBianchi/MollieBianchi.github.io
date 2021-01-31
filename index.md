@@ -16,7 +16,7 @@ layout: default
       <b> Bachelor of Applied Science in Engineering Science with High Honours </b> <br>
       <i> University of Toronto, Robotics Major, GPA: 3.94/4.00, 2015 - 2019 </i> <br>
       University of Toronto National Scholarship valued at $100k <br> <br>
-      <a href="https://www.linkedin.com/in/mollie-bianchi-4963371a5/">View my Linked Profile</a> &nbsp; 
+      <a href="https://www.linkedin.com/in/mollie-bianchi-4963371a5/">View my LinkedIn Profile</a> &nbsp; 
       <a href="https://github.com/MollieBianchi">View my GitHub Profile</a> &nbsp; 
       <a href="assets/pdfs/MollieBianchiResume.pdf">Download my Resume</a> <br> &nbsp; 
     </td>

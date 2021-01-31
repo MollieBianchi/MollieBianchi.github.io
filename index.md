@@ -137,7 +137,7 @@ For the last three years, I have been a part of UofT's self driving vehicle team
     <tr>
       <td> 
       For my graduate state estimation course, I conducted batch state estimation on two mobile robot datasets using Gaussian process (GP) regression. Measurements are collected at discrete times in this dataset, but by introducing a continuous time prior we are able to represent the trajectory in continuous time. To do so, a two step procedure is employed where first the state is solved for at the measurement times and then interpolation is used to query the trajectory at any additional times of interest. This project also explains how using a special class of prior allows for efficient implementation by exploiting the sparsity of the matrices involved. This is demonstrated by interpolating the state at a constant rate in a linear, one-dimensional problem and a non-linear, two dimensional problem for cases with asynchronous measurement times or prolonged measurement dropout. <br>
-        <a href="assets/pdfs/StateEstimationFInalReport.pdf">Project Report</a>
+        <a href="assets/pdfs/StateEstimationReportFInal.pdf">Project Report</a>
       </td>
       <td>
         <div>

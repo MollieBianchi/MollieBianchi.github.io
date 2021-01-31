@@ -126,6 +126,27 @@ For the last three years, I have been a part of UofT's self driving vehicle team
   </tbody>
   </table>
 
+## Batch Continuous-Time Trajectory Estimation
+
+<table style="width:100%">
+  <colgroup>
+       <col span="1" style="width: 60%;">
+       <col span="1" style="width: 40%;">
+    </colgroup>
+  <tbody>
+    <tr>
+      <td> 
+      For my graduate state estimation course, I conducted batch state estimation on two mobile robot datasets using Gaussian process (GP) regression. Measurements are collected at discrete times in this dataset, but by introducing a continuous time prior we are able to represent the trajectory in continuous time. To do so, a two step procedure is employed where first the state is solved for at the measurement times and then interpolation is used to query the trajectory at any additional times of interest. This project also explains how using a special class of prior allows for efficient implementation by exploiting the sparsity of the matrices involved. This is demonstrated by interpolating the state at a constant rate in a linear, one-dimensional problem and a non-linear, two dimensional problem for cases with asynchronous measurement times or prolonged measurement dropout. <br>
+        <a href="assets/pdfs/StateEstimationFInalReport.pdf">Project Report</a>
+      </td>
+      <td>
+        <div>
+        <img src="assets/imgs/se.png" width="300">  
+        </div>
+      </td>
+    </tr>
+  </tbody>
+  </table>
 
 ## Can Sorting Machine
 For my undergraduate engeering design course, I was the electromechanical member of a team tasked with designing and constructing a fully autonomous machine capable of separating recyclable cans into four categories: "Tin Cans with Label", "Tin Cans without Label", "Pop Cans with Tab Attached", and "Pop Cans without Tab Attached". Our machine used a dual level approach, first sorting the cans based on size. Cutouts in the floor of the upper level would allow the pop cans to fall to the second level while the larger tin cans remained on the top. Shaking both levels using a cam, the cans would travel onto specially designed chutes to carry them towards the sorted bins. Once reaching the end of their respective chute, the presence or absence of a label on the tin cans was evaluated through the use of conductive thread and the presence or absence of a tab on the pop can was evaluated using flex sensors installed along the chute. Based on this final detection, the can would then be dropped to the side with the correct bin. As the electromehcnaical member I was respobsible for designing and fabricating the machine structure, selecting and installing appropriate sensors, actuators, and motors, and integrating with my electrical and microcontroller team members. Our machine placed <b>1st</b> in the full semster course competition based on both performance and design.

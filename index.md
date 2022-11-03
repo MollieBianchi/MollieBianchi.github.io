@@ -24,7 +24,48 @@ layout: default
   </tr>
 </table>
 
+# Work Experience
 
+<table style="width:100%">
+  <colgroup>
+       <col span="1" style="width: 50%;">
+       <col span="1" style="width: 50%;">
+    </colgroup>
+  <tbody>
+    <tr>
+      <td> 
+         <b> Robotics Perception Engineer &nbsp; &nbsp; &nbsp; 2021 - current </b> <br>
+<i>Trimble Inc., Richmond Hill, Ontario </i> <br>
+  <ul>
+   <li> Developing in C++ a visual navigation pipeline to compute real time camera trajectories and sparse scene reconstructions using stereo cameras</li>
+   <li>Working alongside a team of engineers following standard best practices, completing code reviews, and implementing unit tests</li>
+  </ul>
+      <b> IT and Controls Intern &nbsp; &nbsp; &nbsp; Summer 2018 </b> <br>
+<i>Innovative Automation Inc., Barrie, Ontario </i> <br>
+  <ul>
+   <li>Developed and deployed WinForms and ASP .Net applications in C# for use in production including modifications to the SQL database</li>
+   <li>Programmed PLCs for the operation of automated robotic equipment and designed Human Machine Interfaces </li>
+   <li>Troubleshot machine operations and rework design during testing phase</li>
+  </ul>
+
+<b> IoT App Developer Intern &nbsp; &nbsp; &nbsp;Summer 2017 </b> <br>
+<i>More Automation Solutions Inc., Mississauga, Ontario </i> <br>
+<ul>
+   <li>Built Windows Universal Platform and web based applications for industrial IoT products</li>
+   <li>Generated databases to store sample records using SQLite  </li>
+   <li>Developed accompanying graphical user interfaces for viewing database records using HTML and Angular JS</li>
+  <li>Used OpenCV to analyze loaves of bread travelling along a conveyor for quality control</li>
+  </ul>
+
+   </td>
+      <td>
+        <div>
+         <img src="assets/gifs/work.gif" width="400">   
+        </div>
+      </td>
+    </tr>
+  </tbody>
+  </table>
 
 # Projects
 
@@ -38,7 +79,7 @@ layout: default
   <tbody>
     <tr>
       <td> 
-        My current research area is on visual localization for unmanned aerial vehicles (UAVs). I recently proposed and demonstrated a fast, robust method for using satellite images for localization. Previous work using satellite images has large storage and computation costs and is unable to run in real time. In this work, Google Earth (GE) images were collected for a desired flight path offline and an autoencoder was trained to compress these images to a low-dimensional vector representation while retaining the key features. This trained autoencoder is used to compress a real UAV image, which is then compared to the precollected, nearby, autoencoded GE images using an inner-product kernel. This results in a distribution of weights over the corresponding GE image poses and is used to generate a single localization and associated covariance to represent uncertainty. The proposed localization method is computed in 1% of the time of the current standard and is able to achieve a comparable RMSE of less than 3m in the experiments, where UAV images from six runs spanning the lighting conditions of a single day were robustly matched to the same map of satellite images. This paper has been accepted into Robotics and Automation Letters 2021. <a href="https://arxiv.org/abs/2102.05692"> View on arXiv </a> &nbsp; 
+        My Master's research area was on visual localization for unmanned aerial vehicles (UAVs). I  proposed and demonstrated a fast, robust method for using satellite images for localization. Previous work using satellite images has large storage and computation costs and is unable to run in real time. In this work, Google Earth (GE) images were collected for a desired flight path offline and an autoencoder was trained to compress these images to a low-dimensional vector representation while retaining the key features. This trained autoencoder is used to compress a real UAV image, which is then compared to the precollected, nearby, autoencoded GE images using an inner-product kernel. This results in a distribution of weights over the corresponding GE image poses and is used to generate a single localization and associated covariance to represent uncertainty. The proposed localization method is computed in 1% of the time of the current standard and is able to achieve a comparable RMSE of less than 3m in the experiments, where UAV images from six runs spanning the lighting conditions of a single day were robustly matched to the same map of satellite images. This paper has been accepted into Robotics and Automation Letters 2021. <a href="https://arxiv.org/abs/2102.05692"> View on arXiv </a> &nbsp; 
       </td>
       <td>
         <div>
@@ -49,9 +90,35 @@ layout: default
   </tbody>
   </table>
 
+## Using SketchUp to Design Home Rennovations
+I have been using SketchUp to create 3D models for potential rennovations to my family home including an additional sunroom being added to main house and an apartment being added on top of the boat house.
+
+<table style="width:100%">
+  <colgroup>
+       <col span="1" style="width: 60%;">
+       <col span="1" style="width: 40%;">
+    </colgroup>
+  <tbody>
+    <tr>
+      <td>
+        <div>
+        <img src="assets/gifs/orca.gif" width="500"> 
+        </div>
+      </td>
+      <td>
+        <div>
+        <img src="assets/gifs/orca.gif" width="500"> 
+        </div>
+      </td>
+    </tr>
+  </tbody>
+  </table>
+  
+
+
 ## Simulation Testing for aUToronto, [UofT's Self Driving Car Team](https://www.autodrive.utoronto.ca)
 
-For the last three years, I have been a part of UofT's self driving vehicle team, aUToronto. Our team has competed in the intercollegiate, North American AutoDrive competition hosted by the Society of Automotive Engineers and General Motors. We were the 1st Place Team Overall Years [1](https://www.utoronto.ca/news/u-t-s-autoronto-team-wins-first-competition-autodrive-challenge), [2](https://betakit.com/u-of-ts-self-driving-car-dominates-2019-autodrive-challenge/), and [3](https://www.utoronto.ca/news/third-year-running-u-t-engineering-team-wins-international-self-driving-car-challenge). My role was as the Simulation Lead and I was primarily responsible for developing and conducting simulation tests to evaluate the autonomy code. Additionally, I lead our team's efforts on the MathWorks Simulation Challenge of the competition which we placed first in for both the years it was held. One of the environments we used for testing was CARLA, which gave me exposure to using the Unreal Engine and also modelling in Maya. Through this role, I gained experience with developing a complex system as part of a team and working with revision control systems. I also completed my undergradate thesis on this topic, which can be read [here](assets/pdfs/MollieBianchiThesisFinal.pdf). I am one of the authors on the team's systems paper from Year 2 of the competition: [“Zeus: A system description of the two-time winner of the collegiate SAE auto drive competition.”](https://arxiv.org/abs/2004.08752) in the Journal of Field Robotics, 2020. Here is a video showcasing our teams performance in the second year of the competition:
+From 2017 - 2020 I was a part of UofT's self driving vehicle team, aUToronto. Our team has competed in the intercollegiate, North American AutoDrive competition hosted by the Society of Automotive Engineers and General Motors. We were the 1st Place Team Overall Years [1](https://www.utoronto.ca/news/u-t-s-autoronto-team-wins-first-competition-autodrive-challenge), [2](https://betakit.com/u-of-ts-self-driving-car-dominates-2019-autodrive-challenge/), and [3](https://www.utoronto.ca/news/third-year-running-u-t-engineering-team-wins-international-self-driving-car-challenge). My role was as the Simulation Lead and I was primarily responsible for developing and conducting simulation tests to evaluate the autonomy code. Additionally, I lead our team's efforts on the MathWorks Simulation Challenge of the competition which we placed first in for both the years it was held. One of the environments we used for testing was CARLA, which gave me exposure to using the Unreal Engine and also modelling in Maya. Through this role, I gained experience with developing a complex system as part of a team and working with revision control systems. I also completed my undergradate thesis on this topic, which can be read [here](assets/pdfs/MollieBianchiThesisFinal.pdf). I am one of the authors on the team's systems paper from Year 2 of the competition: [“Zeus: A system description of the two-time winner of the collegiate SAE auto drive competition.”](https://arxiv.org/abs/2004.08752) in the Journal of Field Robotics, 2020. Here is a video showcasing our teams performance in the second year of the competition:
 
 {% include youtubePlayer.html id="2Z6mPKIv0TM" %}
 
@@ -156,44 +223,6 @@ For my undergraduate engeering design course, I was the electromechanical member
 <br>
 <hr>
 <br>
-
-# Work Experience
-
-<table style="width:100%">
-  <colgroup>
-       <col span="1" style="width: 50%;">
-       <col span="1" style="width: 50%;">
-    </colgroup>
-  <tbody>
-    <tr>
-      <td> 
-      <b> IT and Controls Intern &nbsp; &nbsp; &nbsp; Summer 2018 </b> <br>
-<i>Innovative Automation Inc., Barrie, Ontario </i> <br>
-  <ul>
-   <li>Developed and deployed WinForms and ASP .Net applications in C# for use in production including modifications to the SQL database</li>
-   <li>Programmed PLCs for the operation of automated robotic equipment and designed Human Machine Interfaces </li>
-   <li>Troubleshot machine operations and rework design during testing phase</li>
-  </ul>
-
-<b> IoT App Developer Intern &nbsp; &nbsp; &nbsp;Summer 2017 </b> <br>
-<i>More Automation Solutions Inc., Mississauga, Ontario </i> <br>
-<ul>
-   <li>Built Windows Universal Platform and web based applications for industrial IoT products</li>
-   <li>Generated databases to store sample records using SQLite  </li>
-   <li>Developed accompanying graphical user interfaces for viewing database records using HTML and Angular JS</li>
-  <li>Used OpenCV to analyze loaves of bread travelling along a conveyor for quality control</li>
-  </ul>
-
-   </td>
-      <td>
-        <div>
-         <img src="assets/gifs/work.gif" width="400">   
-        </div>
-      </td>
-    </tr>
-  </tbody>
-  </table>
-
 
 # Fun Stuff
 {% include youtubePlayer.html id="n5x_kSzzbGw" %}

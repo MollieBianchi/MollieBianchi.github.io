@@ -300,7 +300,7 @@ One of my most recent fun projects was to build my own functional lightsaber. Af
     <tr>
       <td>
         <div>
-         <video src="assets/videos/red_video_good.MOV" controls="controls" style="max-width: 250px;">
+         <video src="assets/videos/red_video_good.MOV" controls="controls" style="max-width: 220px;">
 </video>
         </div>
       </td>

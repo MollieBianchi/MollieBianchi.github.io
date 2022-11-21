@@ -257,38 +257,55 @@ One of my most recent fun projects was to build my own functional lightsaber. Af
 
 <table style="width:100%">
   <colgroup>
-       <col span="1" style="width: 60%;">
-       <col span="1" style="width: 40%;">
+       <col span="1" style="width: 33%;">
+       <col span="1" style="width: 33%;">
+       <col span="1" style="width: 33%;">
     </colgroup>
   <tbody>
     <tr>
       <td>
         <div>
-        <img src="assets/imgs/lightsaber_wip.jpg" width="500"> 
+        <img src="assets/imgs/lightsaber_wip.png" width="350"> 
+        </div>
+      </td>
+      <td>
+        <div>
+        <img src="assets/imgs/proffieboard.png" width="350"> 
+        </div>
+      </td>
+      <td>
+        <div>
+       <video src="assets/videos/lightsaber_no_audio.mov" controls="controls" style="max-width: 730px;">
+</video>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div>
+        <img src="assets/imgs/lightsaber_on_block.png" width="350"> 
+        </div>
+      </td>
+      <td>
+        <div>
+        <img src="assets/imgs/lightsaber_finished_inside.png" width="350"> 
+        </div>
+      </td>
+      <td>
+      <div>
+        <img src="assets/imgs/lightsaber_wiring_diagram.png" width="350"> 
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div>
+         <img src="assets/imgs/blue_star_wars_land.JPG" width="350"> 
         </div>
       </td>
       <td>
         <div>
         <img src="assets/imgs/blue_star_wars_land.JPG" width="350"> 
-        </div>
-      </td>
-    </tr>
-     <tr>
-      <td>
-        <div>
-        <img src="assets/imgs/lightsaber_on_block.jpg" width="500"> 
-        </div>
-      </td>
-      <td>
-        <div>
-        <img src="assets/imgs/lightsaber_finished_inside.jpg" width="350"> 
-        </div>
-      </td>
-    </tr>
-     <tr>
-      <td>
-        <div>
-        <img src="assets/imgs/lightsaber_wiring_diagram.jpg" width="500"> 
         </div>
       </td>
       <td>
@@ -299,9 +316,6 @@ One of my most recent fun projects was to build my own functional lightsaber. Af
     </tr>
   </tbody>
   </table>
-
-<video src="assets/videos/lightsaber_no_audio.mov" controls="controls" style="max-width: 730px;">
-</video>
 
 ## Legos!
 {% include youtubePlayer.html id="n5x_kSzzbGw" %}

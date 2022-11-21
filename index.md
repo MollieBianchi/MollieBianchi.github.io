@@ -90,8 +90,8 @@ layout: default
   </tbody>
   </table>
 
-## Using SketchUp to Design Home Rennovations
-I have been using SketchUp to create 3D models for potential rennovations to my family home including an additional sunroom being added to main house and an apartment being added on top of the boat house.
+## Using SketchUp to Design Home Renovations
+I have been using SketchUp to create 3D models for potential renovations to my family home including an additional sunroom being added to the main house and an apartment being added on top of the boat house.
 
 <table style="width:100%">
   <colgroup>
@@ -102,18 +102,42 @@ I have been using SketchUp to create 3D models for potential rennovations to my 
     <tr>
       <td>
         <div>
-        <img src="assets/gifs/orca.gif" width="500"> 
+        <img src="assets/gifs/sunroom.gif" width="500"> 
         </div>
       </td>
       <td>
         <div>
-        <img src="assets/gifs/orca.gif" width="500"> 
+        <img src="assets/imgs/boathouse.png" width="500"> 
         </div>
       </td>
     </tr>
   </tbody>
   </table>
   
+  
+## Learning Maya
+Recently, I have been teaching myself to use the 3D visual effects software Maya by following a series of Youtube tutorials to learn about modelling, UV mapping, lighting, and rendering.
+
+<table style="width:100%">
+  <colgroup>
+       <col span="1" style="width: 60%;">
+       <col span="1" style="width: 40%;">
+    </colgroup>
+  <tbody>
+    <tr>
+      <td>
+        <div>
+        <img src="assets/imgs/maya_desk_final_render.jpg" width="500"> 
+        </div>
+      </td>
+      <td>
+        <div>
+        <img src="assets/gifs/maya_desk.gif" width="350"> 
+        </div>
+      </td>
+    </tr>
+  </tbody>
+  </table>
 
 
 ## Simulation Testing for aUToronto, [UofT's Self Driving Car Team](https://www.autodrive.utoronto.ca)
@@ -225,6 +249,14 @@ For my undergraduate engeering design course, I was the electromechanical member
 <br>
 
 # Fun Stuff
+
+## Lightsaber Build
+
+One of my most recent fun projects was to build my own functional lightsaber. After purchasing a hilt modelled after Anakin's lightsaber in Revenge of the Sith, I designed and assembled a chasis to hold the internal electrical components. Making use of a Proffieboard, an open source, saber sound board available in the lightsaber hobby community, I also designed a wiring setup to power an LED blade, an in-hilt LED to illuminate a kyber crystal, and a in-hilt speaker. I was able to modify the config for two different blade styles, "Hero" and "Villain", complete with motion accurate sound effects, voice clips, blaster effects, and more!
+
+
+
+## Legos!
 {% include youtubePlayer.html id="n5x_kSzzbGw" %}
 
 

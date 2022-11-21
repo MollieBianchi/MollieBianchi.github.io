@@ -275,15 +275,15 @@ One of my most recent fun projects was to build my own functional lightsaber. Af
       </td>
       <td>
         <div>
-       <video src="assets/videos/lightsaber_no_audio.mov" controls="controls" style="max-width: 250px;">
-</video>
+          <img src="assets/imgs/lightsaber_on_block.png" width="350"> 
         </div>
       </td>
     </tr>
     <tr>
       <td>
         <div>
-        <img src="assets/imgs/lightsaber_on_block.png" width="350"> 
+        <video src="assets/videos/lightsaber_no_audio.mov" controls="controls" style="max-width: 250px;">
+</video>
         </div>
       </td>
       <td>
@@ -300,7 +300,8 @@ One of my most recent fun projects was to build my own functional lightsaber. Af
     <tr>
       <td>
         <div>
-         <img src="assets/imgs/blue_star_wars_land.JPG" width="350"> 
+         <video src="assets/videos/red_video_good.MOV" controls="controls" style="max-width: 250px;">
+</video>
         </div>
       </td>
       <td>

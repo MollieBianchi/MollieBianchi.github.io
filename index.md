@@ -275,7 +275,7 @@ One of my most recent fun projects was to build my own functional lightsaber. Af
       </td>
       <td>
         <div>
-       <video src="assets/videos/lightsaber_no_audio.mov" controls="controls" style="max-width: 730px;">
+       <video src="assets/videos/lightsaber_no_audio.mov" controls="controls" style="max-width: 250px;">
 </video>
         </div>
       </td>

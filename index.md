@@ -255,6 +255,51 @@ For my undergraduate engeering design course, I was the electromechanical member
 One of my most recent fun projects was to build my own functional lightsaber. After purchasing a hilt modelled after Anakin's lightsaber in Revenge of the Sith, I designed and assembled a chasis to hold the internal electrical components. Making use of a Proffieboard, an open source, saber sound board available in the lightsaber hobby community, I also designed a wiring setup to power an LED blade, an in-hilt LED to illuminate a kyber crystal, and a in-hilt speaker. I was able to modify the config for two different blade styles, "Hero" and "Villain", complete with motion accurate sound effects, voice clips, blaster effects, and more!
 
 
+<table style="width:100%">
+  <colgroup>
+       <col span="1" style="width: 60%;">
+       <col span="1" style="width: 40%;">
+    </colgroup>
+  <tbody>
+    <tr>
+      <td>
+        <div>
+        <img src="assets/imgs/lightsaber_wip.jpg" width="500"> 
+        </div>
+      </td>
+      <td>
+        <div>
+        <img src="assets/imgs/blue_star_wars_land.JPG" width="350"> 
+        </div>
+      </td>
+    </tr>
+     <tr>
+      <td>
+        <div>
+        <img src="assets/imgs/lightsaber_on_block.jpg" width="500"> 
+        </div>
+      </td>
+      <td>
+        <div>
+        <img src="assets/imgs/lightsaber_finished_inside.jpg" width="350"> 
+        </div>
+      </td>
+    </tr>
+     <tr>
+      <td>
+        <div>
+        <img src="assets/imgs/lightsaber_wiring_diagram.jpg" width="500"> 
+        </div>
+      </td>
+      <td>
+        <div>
+        <img src="assets/imgs/red_star_wars_land.JPG" width="350"> 
+        </div>
+      </td>
+    </tr>
+  </tbody>
+  </table>
+
 <video src="assets/videos/lightsaber_no_audio.mov" controls="controls" style="max-width: 730px;">
 </video>
 

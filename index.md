@@ -90,56 +90,6 @@ layout: default
   </tbody>
   </table>
 
-## Using SketchUp to Design Home Renovations
-I have been using SketchUp to create 3D models for potential renovations to my family home including an additional sunroom being added to the main house and an apartment being added on top of the boat house.
-
-<table style="width:100%">
-  <colgroup>
-       <col span="1" style="width: 60%;">
-       <col span="1" style="width: 40%;">
-    </colgroup>
-  <tbody>
-    <tr>
-      <td>
-        <div>
-        <img src="assets/gifs/sunroom.gif" width="500"> 
-        </div>
-      </td>
-      <td>
-        <div>
-        <img src="assets/imgs/boathouse.png" width="500"> 
-        </div>
-      </td>
-    </tr>
-  </tbody>
-  </table>
-  
-  
-## Learning Maya
-Recently, I have been teaching myself to use the 3D visual effects software Maya by following a series of Youtube tutorials to learn about modelling, UV mapping, lighting, and rendering.
-
-<table style="width:100%">
-  <colgroup>
-       <col span="1" style="width: 60%;">
-       <col span="1" style="width: 40%;">
-    </colgroup>
-  <tbody>
-    <tr>
-      <td>
-        <div>
-        <img src="assets/imgs/maya_desk_final_render.jpg" width="500"> 
-        </div>
-      </td>
-      <td>
-        <div>
-        <img src="assets/gifs/maya_desk.gif" width="350"> 
-        </div>
-      </td>
-    </tr>
-  </tbody>
-  </table>
-
-
 ## Simulation Testing for aUToronto, [UofT's Self Driving Car Team](https://www.autodrive.utoronto.ca)
 
 From 2017 - 2020 I was a part of UofT's self driving vehicle team, aUToronto. Our team has competed in the intercollegiate, North American AutoDrive competition hosted by the Society of Automotive Engineers and General Motors. We were the 1st Place Team Overall Years [1](https://www.utoronto.ca/news/u-t-s-autoronto-team-wins-first-competition-autodrive-challenge), [2](https://betakit.com/u-of-ts-self-driving-car-dominates-2019-autodrive-challenge/), and [3](https://www.utoronto.ca/news/third-year-running-u-t-engineering-team-wins-international-self-driving-car-challenge). My role was as the Simulation Lead and I was primarily responsible for developing and conducting simulation tests to evaluate the autonomy code. Additionally, I lead our team's efforts on the MathWorks Simulation Challenge of the competition which we placed first in for both the years it was held. One of the environments we used for testing was CARLA, which gave me exposure to using the Unreal Engine and also modelling in Maya. Through this role, I gained experience with developing a complex system as part of a team and working with revision control systems. I also completed my undergradate thesis on this topic, which can be read [here](assets/pdfs/MollieBianchiThesisFinal.pdf). I am one of the authors on the team's systems paper from Year 2 of the competition: [“Zeus: A system description of the two-time winner of the collegiate SAE auto drive competition.”](https://arxiv.org/abs/2004.08752) in the Journal of Field Robotics, 2020. Here is a video showcasing our teams performance in the second year of the competition:
@@ -312,6 +262,55 @@ One of my most recent fun projects was to build my own functional lightsaber. Af
       <td>
         <div>
         <img src="assets/imgs/red_star_wars_land.JPG" width="350"> 
+        </div>
+      </td>
+    </tr>
+  </tbody>
+  </table>
+
+## Using SketchUp to Design Home Renovations
+I have been using SketchUp to create 3D models for potential renovations to my family home including an additional sunroom being added to the main house and an apartment being added on top of the boat house.
+
+<table style="width:100%">
+  <colgroup>
+       <col span="1" style="width: 60%;">
+       <col span="1" style="width: 40%;">
+    </colgroup>
+  <tbody>
+    <tr>
+      <td>
+        <div>
+        <img src="assets/gifs/sunroom.gif" width="500"> 
+        </div>
+      </td>
+      <td>
+        <div>
+        <img src="assets/imgs/boathouse.png" width="500"> 
+        </div>
+      </td>
+    </tr>
+  </tbody>
+  </table>
+  
+  
+## Learning Maya
+Recently, I have been teaching myself to use the 3D visual effects software Maya by following a series of Youtube tutorials to learn about modelling, UV mapping, lighting, and rendering.
+
+<table style="width:100%">
+  <colgroup>
+       <col span="1" style="width: 60%;">
+       <col span="1" style="width: 40%;">
+    </colgroup>
+  <tbody>
+    <tr>
+      <td>
+        <div>
+        <img src="assets/imgs/maya_desk_final_render.jpg" width="500"> 
+        </div>
+      </td>
+      <td>
+        <div>
+        <img src="assets/gifs/maya_desk.gif" width="350"> 
         </div>
       </td>
     </tr>

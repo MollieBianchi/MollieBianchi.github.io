@@ -34,7 +34,7 @@ layout: default
   <tbody>
     <tr>
       <td> 
-         <b> Robotics Perception Engineer &nbsp; &nbsp; &nbsp; 2021 - current </b> <br>
+         <b> Robotics Perception Engineer &nbsp; &nbsp; &nbsp; 2021 - 2023 </b> <br>
 <i>Trimble Inc., Richmond Hill, Ontario </i> <br>
   <ul>
    <li> Developing in C++ a visual navigation pipeline to compute real time camera trajectories and sparse scene reconstructions using stereo cameras</li>
